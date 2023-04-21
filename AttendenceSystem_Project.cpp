@@ -1,7 +1,5 @@
 //Program to take attendence of a class.
 #include<iostream> // ifstream(Read->cout) + ofstream(Write->cin)
-//#include<ifstream>
-//#include<ofstream>
 #include<stdio.h>
 #include<cstring>
 #include<stdlib.h>
